@@ -2,7 +2,7 @@
 
 **`Sep 2022`**
 
-First-Person Horror Game Made With Unity.
+First-Person Horror Game Made With Unity
 <br>
 <a data-label="game:1792809:title" class="title game_link" data-action="game_grid" href="https://roboticgames.itch.io/fractured-forest">Fractured Forest (DEMO)</a>  
 #
